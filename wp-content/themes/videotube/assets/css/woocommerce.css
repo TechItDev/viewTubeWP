@@ -1,0 +1,87 @@
+.woocommerce{
+	font-size: 16px;
+}
+
+.woocommerce h3{
+	font-size: 17px;
+	font-weight: 600;
+}
+
+.woocommerce h2{
+	font-size: 19px;
+	font-weight: 600;
+}
+
+.woocommerce .col2-set, 
+.woocommerce-page .col2-set{
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+.woocommerce .col2-set .col-1, 
+.woocommerce-page .col2-set .col-1,
+.woocommerce .col2-set .col-2, 
+.woocommerce-page .col2-set .col-2{
+	-ms-flex: 0 0 50%;
+	flex: 0 0 50%;
+	max-width: 50%;
+}
+
+@media ( max-width: 375px ){
+	.woocommerce .col2-set .col-1, 
+	.woocommerce-page .col2-set .col-1,
+	.woocommerce .col2-set .col-2, 
+	.woocommerce-page .col2-set .col-2{
+		-ms-flex: 0 0 100%;
+		flex: 0 0 100%;
+		max-width: 100%;
+	}
+}
+
+.woocommerce form .show-password-input, 
+.woocommerce-page form .show-password-input{
+	top: 0;
+}
+
+.woocommerce form .password-input, 
+.woocommerce-page form .password-input{
+	width: 100%;
+}
+
+.woocommerce form .password-input input[type=password],
+.woocommerce-page form .password-input input[type=password]{
+	padding-right: 0;
+}
+
+.woocommerce .woocommerce-input-wrapper {
+    width: 100%;
+}
+
+.woocommerce .woocommerce-form-login .woocommerce-form-login__rememberme{
+	display: block;
+	width: 100%;
+}
+
+.woocommerce .woocommerce-EditAccountForm legend{
+	font-size: 17px;
+	font-weight: 600;	
+}
+
+.woocommerce .woocommerce-MyAccount-navigation ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.woocommerce .woocommerce-MyAccount-navigation ul .is-active{
+	font-weight: 600;
+}
+
+.woocommerce ul.order_details {
+    margin: 20px 0;
+    padding: 0;
+}

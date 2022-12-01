@@ -1,0 +1,1442 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: videotube\n"
+"POT-Creation-Date: 2020-10-10 09:19+0700\n"
+"PO-Revision-Date: 2016-01-26 14:11+0700\n"
+"Last-Translator: \n"
+"Language-Team: marstheme.com <nttoanbrvt@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/class-composer.php:28
+msgid "You have no page, please create a new one."
+msgstr ""
+
+#: includes/class-custom-post-type.php:22
+#: includes/class-custom-post-type.php:37
+#: includes/class-custom-post-type.php:38
+msgid "Videos"
+msgstr ""
+
+#: includes/class-custom-post-type.php:39
+msgid "Add Videos"
+msgstr ""
+
+#: includes/class-custom-post-type.php:40
+msgid "Add New Videos"
+msgstr ""
+
+#: includes/class-custom-post-type.php:41
+msgid "Edit"
+msgstr ""
+
+#: includes/class-custom-post-type.php:42
+msgid "Edit Videos"
+msgstr ""
+
+#: includes/class-custom-post-type.php:43
+msgid "New Videos"
+msgstr ""
+
+#: includes/class-custom-post-type.php:44
+#: includes/class-custom-post-type.php:45
+msgid "View Videos"
+msgstr ""
+
+#: includes/class-custom-post-type.php:46
+msgid "Search Videos"
+msgstr ""
+
+#: includes/class-custom-post-type.php:47
+msgid "No Videos Found"
+msgstr ""
+
+#: includes/class-custom-post-type.php:48
+msgid "No Videos Found in Trash"
+msgstr ""
+
+#: includes/class-custom-post-type.php:49
+msgid "Parent Videos"
+msgstr ""
+
+#: includes/class-custom-post-type.php:58
+msgid "Author"
+msgstr ""
+
+#: includes/class-custom-post-type.php:59
+msgid "Likes"
+msgstr ""
+
+#: includes/class-custom-post-type.php:60
+msgid "Views"
+msgstr ""
+
+#: includes/class-custom-post-type.php:61 includes/class-metabox.php:45
+#: includes/class-shortcode.php:608
+msgid "Layout"
+msgstr ""
+
+#: includes/class-custom-taxonomy.php:17 includes/class-custom-taxonomy.php:18
+#: includes/class-custom-taxonomy.php:27 includes/class-custom-taxonomy.php:31
+#: includes/class-widget-related-videos.php:345
+#: includes/composer/shortcodes/videotube.php:172
+#: includes/composer/widgets/featured-video.php:109
+#: includes/composer/widgets/post1col.php:112
+msgid "Video Category"
+msgstr ""
+
+#: includes/class-custom-taxonomy.php:19
+msgid "Search Video Category"
+msgstr ""
+
+#: includes/class-custom-taxonomy.php:20
+msgid "All Video Category"
+msgstr ""
+
+#: includes/class-custom-taxonomy.php:21
+msgid "Parent Video Category"
+msgstr ""
+
+#: includes/class-custom-taxonomy.php:22
+msgid "Parent Video Category:"
+msgstr ""
+
+#: includes/class-custom-taxonomy.php:23
+msgid "Edit Video Category"
+msgstr ""
+
+#: includes/class-custom-taxonomy.php:24
+msgid "Update Video Category"
+msgstr ""
+
+#: includes/class-custom-taxonomy.php:25
+msgid "Add New Video Category"
+msgstr ""
+
+#: includes/class-custom-taxonomy.php:26
+msgid "New Video Category"
+msgstr ""
+
+#: includes/class-custom-taxonomy.php:83 includes/class-custom-taxonomy.php:84
+#: includes/class-custom-taxonomy.php:93 includes/class-custom-taxonomy.php:96
+#: includes/class-widget-related-videos.php:346
+msgid "Video Tag"
+msgstr ""
+
+#: includes/class-custom-taxonomy.php:85
+msgid "Search Video Tag"
+msgstr ""
+
+#: includes/class-custom-taxonomy.php:86
+msgid "All Video Tag"
+msgstr ""
+
+#: includes/class-custom-taxonomy.php:87
+msgid "Parent Video Tag"
+msgstr ""
+
+#: includes/class-custom-taxonomy.php:88
+msgid "Parent Video Tag:"
+msgstr ""
+
+#: includes/class-custom-taxonomy.php:89
+msgid "Edit Video Tag"
+msgstr ""
+
+#: includes/class-custom-taxonomy.php:90
+msgid "Update Video Tag"
+msgstr ""
+
+#: includes/class-custom-taxonomy.php:91
+msgid "Add New Video Tag"
+msgstr ""
+
+#: includes/class-custom-taxonomy.php:92
+msgid "New Video Tag"
+msgstr ""
+
+#: includes/class-metabox.php:49
+msgid "Small"
+msgstr ""
+
+#: includes/class-metabox.php:50
+msgid "Large"
+msgstr ""
+
+#: includes/class-metabox.php:58
+msgid "Aspect ratio"
+msgstr ""
+
+#: includes/class-metabox.php:62
+msgid "16:9 (default)"
+msgstr ""
+
+#: includes/class-metabox.php:63
+msgid "4:3"
+msgstr ""
+
+#: includes/class-metabox.php:64
+msgid "1:1"
+msgstr ""
+
+#: includes/class-metabox.php:65
+msgid "21:9"
+msgstr ""
+
+#: includes/class-metabox.php:72
+msgid "Choose the Video type"
+msgstr ""
+
+#: includes/class-metabox.php:85
+msgid "Enter the link or embed code here"
+msgstr ""
+
+#: includes/class-metabox.php:88
+msgid "Here you can put multiple video object, one object/line."
+msgstr ""
+
+#: includes/class-metabox.php:109
+msgid "Upload your files here"
+msgstr ""
+
+#: includes/class-metabox.php:151 includes/class-metabox.php:155
+#: includes/composer/shortcodes/videotube.php:47
+#: includes/composer/widgets/post1col.php:44
+msgid "Post Type"
+msgstr ""
+
+#: includes/class-metabox.php:158
+msgid "This option is used in infinity rolling page. "
+msgstr ""
+
+#: includes/class-shortcode.php:382
+msgid "No posts were found."
+msgstr ""
+
+#: includes/class-shortcode.php:425
+msgid "You have no permission to access this feature."
+msgstr ""
+
+#: includes/class-shortcode.php:487
+msgid "Updated!"
+msgstr ""
+
+#: includes/class-shortcode.php:490
+#: includes/composer/shortcodes/videotube.php:28
+#: includes/composer/shortcodes/videotube_upload.php:20
+#: includes/composer/widgets/big-post.php:30
+#: includes/composer/widgets/featured-video.php:33
+#: includes/composer/widgets/login-form.php:21
+#: includes/composer/widgets/post1col.php:30
+#: includes/composer/widgets/social-count-plus.php:23
+#: includes/composer/widgets/socialsbox.php:23
+#: includes/composer/widgets/vt-tag-cloud.php:23
+msgid "Title"
+msgstr ""
+
+#: includes/class-shortcode.php:491
+msgid "Required"
+msgstr ""
+
+#: includes/class-shortcode.php:496
+msgid "Description"
+msgstr ""
+
+#: includes/class-shortcode.php:517
+msgid "Embed a link"
+msgstr ""
+
+#: includes/class-shortcode.php:524
+msgid "Embed an iframe"
+msgstr ""
+
+#: includes/class-shortcode.php:531
+msgid "Upload a video file"
+msgstr ""
+
+#: includes/class-shortcode.php:535
+msgid "Record a video"
+msgstr ""
+
+#: includes/class-shortcode.php:558
+msgid "Upload a video"
+msgstr ""
+
+#: includes/class-shortcode.php:564
+msgid "Start recording"
+msgstr ""
+
+#: includes/class-shortcode.php:578
+msgid "Upload a thumbnail image"
+msgstr ""
+
+#: includes/class-shortcode.php:591
+msgid "Tags"
+msgstr ""
+
+#: includes/class-shortcode.php:594
+msgid "Enter tags, separated by commas(,), e.g: travel,vblog,tutorial"
+msgstr ""
+
+#: includes/class-shortcode.php:600 includes/class-widget-related-posts.php:293
+msgid "Category"
+msgstr ""
+
+#: includes/class-shortcode.php:628
+msgid "Update"
+msgstr ""
+
+#: includes/class-shortcode.php:629
+msgid "Delete video"
+msgstr ""
+
+#: includes/class-shortcode.php:630
+msgid "Go to video"
+msgstr ""
+
+#: includes/class-shortcode.php:633
+msgid "Submit"
+msgstr ""
+
+#: includes/class-widget-aside-posts.php:12
+#: includes/class-widget-aside-posts.php:14
+msgid "[VideoTube] Aside Posts"
+msgstr ""
+
+#: includes/class-widget-aside-posts.php:23
+#: includes/class-widget-aside-posts.php:202
+#: includes/class-widget-main-posts.php:21
+#: includes/class-widget-main-posts.php:316
+msgid "Latest Posts"
+msgstr ""
+
+#: includes/class-widget-aside-posts.php:214
+#: includes/class-widget-aside-videos.php:212
+#: includes/class-widget-featured-posts.php:290
+#: includes/class-widget-featured-videos.php:292
+#: includes/class-widget-large-video.php:104
+#: includes/class-widget-login-form.php:92
+#: includes/class-widget-main-posts.php:329
+#: includes/class-widget-main-videos.php:341
+#: includes/class-widget-related-posts.php:204
+#: includes/class-widget-related-videos.php:258
+#: includes/class-widget-social-count.php:101
+#: includes/class-widget-socials.php:57 includes/class-widget-tags-cloud.php:87
+msgid "Title:"
+msgstr ""
+
+#: includes/class-widget-aside-posts.php:218
+#: includes/class-widget-aside-videos.php:216
+#: includes/class-widget-featured-videos.php:300
+#: includes/class-widget-main-videos.php:349
+msgid "Video Category:"
+msgstr ""
+
+#: includes/class-widget-aside-posts.php:240
+#: includes/class-widget-featured-posts.php:322
+#: includes/class-widget-main-posts.php:359
+msgid "Post Tag:"
+msgstr ""
+
+#: includes/class-widget-aside-posts.php:241
+#: includes/class-widget-aside-videos.php:239
+#: includes/class-widget-featured-posts.php:323
+#: includes/class-widget-featured-videos.php:323
+#: includes/class-widget-main-posts.php:360
+#: includes/class-widget-main-videos.php:372
+msgid "Eg: tag1,tag2,tag3"
+msgstr ""
+
+#: includes/class-widget-aside-posts.php:244
+#: includes/class-widget-aside-videos.php:242
+#: includes/class-widget-featured-videos.php:326
+#: includes/class-widget-main-posts.php:363
+#: includes/class-widget-main-videos.php:375
+msgid "Date (Show posts associated with a certain time, (yyyy-mm-dd)):"
+msgstr ""
+
+#: includes/class-widget-aside-posts.php:248
+#: includes/class-widget-aside-videos.php:246
+#: includes/class-widget-featured-posts.php:330
+#: includes/class-widget-featured-videos.php:330
+#: includes/class-widget-main-posts.php:367
+#: includes/class-widget-main-videos.php:379
+msgid "Display the post today"
+msgstr ""
+
+#: includes/class-widget-aside-posts.php:250
+#: includes/class-widget-aside-videos.php:248
+#: includes/class-widget-featured-posts.php:332
+#: includes/class-widget-featured-videos.php:332
+#: includes/class-widget-main-posts.php:369
+#: includes/class-widget-main-videos.php:381
+msgid "Or this week"
+msgstr ""
+
+#: includes/class-widget-aside-posts.php:253
+#: includes/class-widget-aside-videos.php:251
+#: includes/class-widget-featured-posts.php:335
+#: includes/class-widget-featured-videos.php:335
+#: includes/class-widget-main-posts.php:372
+#: includes/class-widget-main-videos.php:384
+msgid "Do not choose two options."
+msgstr ""
+
+#: includes/class-widget-aside-posts.php:256
+#: includes/class-widget-aside-videos.php:254
+#: includes/class-widget-featured-posts.php:338
+#: includes/class-widget-featured-videos.php:338
+#: includes/class-widget-main-posts.php:375
+#: includes/class-widget-main-videos.php:387
+#: includes/class-widget-related-posts.php:208
+#: includes/class-widget-related-videos.php:262
+msgid "Orderby:"
+msgstr ""
+
+#: includes/class-widget-aside-posts.php:269
+#: includes/class-widget-aside-videos.php:267
+#: includes/class-widget-featured-posts.php:351
+#: includes/class-widget-featured-videos.php:351
+#: includes/class-widget-main-posts.php:388
+#: includes/class-widget-main-videos.php:400
+#: includes/class-widget-related-posts.php:221
+#: includes/class-widget-related-videos.php:275
+msgid "Order:"
+msgstr ""
+
+#: includes/class-widget-aside-posts.php:282
+#: includes/class-widget-aside-videos.php:280
+#: includes/class-widget-main-posts.php:401
+msgid "Desktop Column:"
+msgstr ""
+
+#: includes/class-widget-aside-posts.php:295
+#: includes/class-widget-aside-videos.php:293
+#: includes/class-widget-featured-posts.php:380
+#: includes/class-widget-featured-videos.php:376
+#: includes/class-widget-main-posts.php:414
+#: includes/class-widget-main-videos.php:426
+#: includes/class-widget-related-posts.php:256
+#: includes/class-widget-related-videos.php:310
+msgid "Tablet Columns:"
+msgstr ""
+
+#: includes/class-widget-aside-posts.php:308
+#: includes/class-widget-aside-videos.php:306
+#: includes/class-widget-featured-posts.php:384
+#: includes/class-widget-featured-videos.php:380
+#: includes/class-widget-main-posts.php:427
+#: includes/class-widget-main-videos.php:439
+#: includes/class-widget-related-posts.php:260
+#: includes/class-widget-related-videos.php:314
+msgid "Mobile Columns:"
+msgstr ""
+
+#: includes/class-widget-aside-posts.php:321
+#: includes/class-widget-aside-videos.php:319
+#: includes/class-widget-main-posts.php:440
+#: includes/class-widget-main-videos.php:452
+#: includes/class-widget-related-posts.php:265
+#: includes/class-widget-related-videos.php:318
+msgid "Thumbnail Size:"
+msgstr ""
+
+#: includes/class-widget-aside-posts.php:325
+#: includes/class-widget-aside-videos.php:323
+#: includes/class-widget-main-posts.php:444
+#: includes/class-widget-main-videos.php:456
+#: includes/class-widget-related-posts.php:269
+#: includes/class-widget-related-videos.php:322
+msgid "Enter the custom image size of leave blank for default."
+msgstr ""
+
+#: includes/class-widget-aside-posts.php:331
+#: includes/class-widget-aside-videos.php:329
+#: includes/class-widget-main-posts.php:457
+#: includes/class-widget-main-videos.php:470
+msgid "Hide empty thumbnail posts:"
+msgstr ""
+
+#: includes/class-widget-aside-posts.php:335
+#: includes/class-widget-aside-videos.php:334
+#: includes/class-widget-featured-posts.php:368
+#: includes/class-widget-featured-videos.php:368
+#: includes/class-widget-main-posts.php:449
+#: includes/class-widget-main-videos.php:461
+#: includes/class-widget-related-posts.php:247
+#: includes/class-widget-related-videos.php:301
+msgid "Shows:"
+msgstr ""
+
+#: includes/class-widget-aside-posts.php:339
+#: includes/class-widget-aside-videos.php:338
+#: includes/class-widget-featured-posts.php:396
+#: includes/class-widget-featured-videos.php:392
+#: includes/class-widget-main-posts.php:465
+#: includes/class-widget-main-videos.php:479
+msgid "View more link"
+msgstr ""
+
+#: includes/class-widget-aside-posts.php:346
+#: includes/class-widget-aside-videos.php:345
+#: includes/class-widget-main-posts.php:475
+#: includes/class-widget-main-videos.php:489
+msgid "2 Columns"
+msgstr ""
+
+#: includes/class-widget-aside-posts.php:347
+#: includes/class-widget-aside-videos.php:346
+#: includes/class-widget-main-posts.php:476
+#: includes/class-widget-main-videos.php:490
+msgid "1 Column"
+msgstr ""
+
+#: includes/class-widget-aside-posts.php:352
+#: includes/class-widget-aside-videos.php:351
+#: includes/class-widget-featured-posts.php:404
+#: includes/class-widget-featured-videos.php:400
+#: includes/class-widget-main-posts.php:481
+#: includes/class-widget-main-videos.php:495
+#: includes/class-widget-related-posts.php:287
+#: includes/class-widget-related-videos.php:339
+#: includes/composer/attribute/order.php:7
+#: includes/composer/shortcodes/videotube_upload.php:84
+msgid "DESC"
+msgstr ""
+
+#: includes/class-widget-aside-posts.php:353
+#: includes/class-widget-aside-videos.php:352
+#: includes/class-widget-featured-posts.php:403
+#: includes/class-widget-featured-videos.php:399
+#: includes/class-widget-main-posts.php:482
+#: includes/class-widget-main-videos.php:496
+#: includes/class-widget-related-posts.php:286
+#: includes/class-widget-related-videos.php:338
+#: includes/composer/attribute/order.php:8
+#: includes/composer/shortcodes/videotube_upload.php:83
+msgid "ASC"
+msgstr ""
+
+#: includes/class-widget-aside-videos.php:11
+#: includes/class-widget-aside-videos.php:12
+msgid "[VideoTube] Aside Videos"
+msgstr ""
+
+#: includes/class-widget-aside-videos.php:21
+#: includes/class-widget-main-videos.php:19
+#: includes/class-widget-main-videos.php:329
+msgid "Latest Videos"
+msgstr ""
+
+#: includes/class-widget-aside-videos.php:200
+msgid "Right Sidebar Videos"
+msgstr ""
+
+#: includes/class-widget-aside-videos.php:238
+#: includes/class-widget-featured-videos.php:322
+#: includes/class-widget-main-videos.php:371
+msgid "Video Tag:"
+msgstr ""
+
+#: includes/class-widget-featured-posts.php:23
+#: includes/class-widget-featured-posts.php:25
+msgid "[VideoTube] Featured Posts"
+msgstr ""
+
+#: includes/class-widget-featured-posts.php:33
+#: includes/class-widget-featured-posts.php:277
+msgid "Featured Posts"
+msgstr ""
+
+#: includes/class-widget-featured-posts.php:295
+#: includes/class-widget-featured-videos.php:296
+#: includes/class-widget-main-posts.php:333
+#: includes/class-widget-main-videos.php:345
+msgid "Icon:"
+msgstr ""
+
+#: includes/class-widget-featured-posts.php:300
+msgid "Post Category:"
+msgstr ""
+
+#: includes/class-widget-featured-posts.php:326
+msgid "Date (Show posts associated with a certain time, (yy-mm-dd)):"
+msgstr ""
+
+#: includes/class-widget-featured-posts.php:364
+msgid "Post IDs:"
+msgstr ""
+
+#: includes/class-widget-featured-posts.php:372
+msgid "Show Sticky Posts:"
+msgstr ""
+
+#: includes/class-widget-featured-posts.php:376
+#: includes/class-widget-featured-videos.php:372
+#: includes/class-widget-main-videos.php:413
+#: includes/class-widget-related-videos.php:305
+msgid "Desktop Columns:"
+msgstr ""
+
+#: includes/class-widget-featured-posts.php:388
+#: includes/class-widget-featured-videos.php:384
+#: includes/class-widget-related-posts.php:275
+#: includes/class-widget-related-videos.php:327
+msgid "Rows:"
+msgstr ""
+
+#: includes/class-widget-featured-posts.php:392
+#: includes/class-widget-featured-videos.php:388
+#: includes/class-widget-main-posts.php:461
+#: includes/class-widget-main-videos.php:475
+#: includes/class-widget-related-posts.php:279
+msgid "Auto Carousel:"
+msgstr ""
+
+#: includes/class-widget-featured-videos.php:20
+#: includes/class-widget-featured-videos.php:22
+msgid "[VideoTube] Featured Videos"
+msgstr ""
+
+#: includes/class-widget-featured-videos.php:30
+#: includes/class-widget-featured-videos.php:280
+#: includes/composer/widgets/featured-video.php:21
+msgid "Featured Videos"
+msgstr ""
+
+#: includes/class-widget-featured-videos.php:364
+msgid "Video IDs:"
+msgstr ""
+
+#: includes/class-widget-large-video.php:12
+#: includes/class-widget-large-video.php:14
+msgid "[VideoTube] Large Video"
+msgstr ""
+
+#: includes/class-widget-large-video.php:34
+#: includes/class-widget-main-posts.php:212
+#: includes/class-widget-main-videos.php:227
+msgid "View More"
+msgstr ""
+
+#: includes/class-widget-large-video.php:76
+msgid "watch video"
+msgstr ""
+
+#: includes/class-widget-large-video.php:98
+msgid "Latest Video/Post"
+msgstr ""
+
+#: includes/class-widget-large-video.php:108
+msgid "Enter a Post ID:"
+msgstr ""
+
+#: includes/class-widget-large-video.php:109
+msgid "example: 12"
+msgstr ""
+
+#: includes/class-widget-large-video.php:112
+msgid "Thumbnail Image Size:"
+msgstr ""
+
+#: includes/class-widget-large-video.php:116
+msgid "View more link:"
+msgstr ""
+
+#: includes/class-widget-large-video.php:118
+#: includes/composer/widgets/big-post.php:55
+msgid ""
+"You can link this to the archive page or something else, or put \"#\" for "
+"default."
+msgstr ""
+
+#: includes/class-widget-login-form.php:12
+#: includes/class-widget-login-form.php:14
+#: includes/composer/widgets/login-form.php:9
+msgid "[VideoTube] Login Form"
+msgstr ""
+
+#: includes/class-widget-login-form.php:33
+msgid "Username"
+msgstr ""
+
+#: includes/class-widget-login-form.php:34
+msgid "Password"
+msgstr ""
+
+#: includes/class-widget-login-form.php:35
+msgid "Remember Me"
+msgstr ""
+
+#: includes/class-widget-login-form.php:36
+msgid "Log In"
+msgstr ""
+
+#: includes/class-widget-login-form.php:64
+msgid "Upload"
+msgstr ""
+
+#: includes/class-widget-login-form.php:66
+msgid "Channel"
+msgstr ""
+
+#: includes/class-widget-login-form.php:68
+#: includes/composer/widgets/login-form.php:23
+msgid "Profile"
+msgstr ""
+
+#: includes/class-widget-login-form.php:70
+msgid "Sign out"
+msgstr ""
+
+#: includes/class-widget-login-form.php:87
+msgid "Login Form"
+msgstr ""
+
+#: includes/class-widget-login-form.php:96
+msgid "Uploader URL:"
+msgstr ""
+
+#: includes/class-widget-login-form.php:100
+#: includes/class-widget-login-form.php:114
+msgid "Choose One ..."
+msgstr ""
+
+#: includes/class-widget-login-form.php:110
+msgid "Profile URL:"
+msgstr ""
+
+#: includes/class-widget-main-posts.php:12
+#: includes/class-widget-main-posts.php:14
+msgid "[VideoTube] Main Posts"
+msgstr ""
+
+#: includes/class-widget-main-posts.php:337
+msgid "Category:"
+msgstr ""
+
+#: includes/class-widget-main-posts.php:453
+#: includes/class-widget-main-videos.php:465
+msgid "Rows (Available for 3 or 1 Column):"
+msgstr ""
+
+#: includes/class-widget-main-posts.php:472
+#: includes/class-widget-main-videos.php:486
+msgid "6 Columns"
+msgstr ""
+
+#: includes/class-widget-main-posts.php:473
+#: includes/class-widget-main-videos.php:487
+msgid "4 Columns"
+msgstr ""
+
+#: includes/class-widget-main-posts.php:474
+#: includes/class-widget-main-videos.php:488
+msgid "3 Columns"
+msgstr ""
+
+#: includes/class-widget-main-videos.php:11
+#: includes/class-widget-main-videos.php:13
+msgid "[VideoTube] Main Videos"
+msgstr ""
+
+#: includes/class-widget-related-posts.php:11
+#: includes/class-widget-related-posts.php:13
+msgid "[VideoTube] Related Posts"
+msgstr ""
+
+#: includes/class-widget-related-posts.php:196
+msgid "Related posts"
+msgstr ""
+
+#: includes/class-widget-related-posts.php:234
+#: includes/class-widget-related-videos.php:288
+msgid "Filter Condition:"
+msgstr ""
+
+#: includes/class-widget-related-posts.php:251
+msgid "Columns:"
+msgstr ""
+
+#: includes/class-widget-related-posts.php:253
+#: includes/class-widget-related-videos.php:307
+msgid "You can set the columns for displaying the Videos, example: 3,4 or 6."
+msgstr ""
+
+#: includes/class-widget-related-posts.php:292
+msgid "Category and Post Tag"
+msgstr ""
+
+#: includes/class-widget-related-posts.php:294
+msgid "Post Tag"
+msgstr ""
+
+#: includes/class-widget-related-videos.php:12
+#: includes/class-widget-related-videos.php:14
+msgid "[VideoTube] Related Videos"
+msgstr ""
+
+#: includes/class-widget-related-videos.php:250
+msgid "Related Videos"
+msgstr ""
+
+#: includes/class-widget-related-videos.php:331
+#: includes/composer/shortcodes/videotube.php:95
+#: includes/composer/widgets/featured-video.php:54
+msgid "Auto Carousel"
+msgstr ""
+
+#: includes/class-widget-related-videos.php:344
+msgid "Video Category and Video Tag"
+msgstr ""
+
+#: includes/class-widget-social-count.php:11
+#: includes/class-widget-social-count.php:13
+msgid "[VideoTube] Social Count"
+msgstr ""
+
+#: includes/class-widget-social-count.php:37
+#: includes/class-widget-social-count.php:39
+msgid "Fans"
+msgstr ""
+
+#: includes/class-widget-social-count.php:38
+#: includes/class-widget-social-count.php:40
+#: includes/class-widget-social-count.php:42
+#: includes/class-widget-social-count.php:43
+#: includes/class-widget-social-count.php:44
+#: includes/class-widget-social-count.php:45
+msgid "Followers"
+msgstr ""
+
+#: includes/class-widget-social-count.php:41
+#: includes/class-widget-social-count.php:46
+#: includes/class-widget-social-count.php:71
+msgid "Subscribers"
+msgstr ""
+
+#: includes/class-widget-social-count.php:96
+msgid "Social Subscribox"
+msgstr ""
+
+#: includes/class-widget-socials.php:11 includes/class-widget-socials.php:13
+msgid "[VideoTube] Socials"
+msgstr ""
+
+#: includes/class-widget-socials.php:18
+msgid "Facebook"
+msgstr ""
+
+#: includes/class-widget-socials.php:19
+msgid "twitter"
+msgstr ""
+
+#: includes/class-widget-socials.php:20
+msgid "Google Plus"
+msgstr ""
+
+#: includes/class-widget-socials.php:21
+msgid "Instagram"
+msgstr ""
+
+#: includes/class-widget-socials.php:22
+msgid "Linkedin"
+msgstr ""
+
+#: includes/class-widget-socials.php:23
+msgid "Tumblr"
+msgstr ""
+
+#: includes/class-widget-socials.php:24
+msgid "Youtube"
+msgstr ""
+
+#: includes/class-widget-socials.php:25
+msgid "Vimeo"
+msgstr ""
+
+#: includes/class-widget-socials.php:26
+msgid "Pinterest"
+msgstr ""
+
+#: includes/class-widget-socials.php:27
+msgid "Snapchat"
+msgstr ""
+
+#: includes/class-widget-socials.php:54
+msgid "Stay Connected"
+msgstr ""
+
+#: includes/class-widget-tags-cloud.php:20
+#: includes/class-widget-tags-cloud.php:22
+msgid "[VideoTube] Tags Cloud"
+msgstr ""
+
+#: includes/class-widget-tags-cloud.php:74
+msgid "Tags Cloud"
+msgstr ""
+
+#: includes/class-widget-tags-cloud.php:91
+msgid "Taxonomies:"
+msgstr ""
+
+#: includes/class-widget-tags-cloud.php:95
+msgid "Smallest Size:"
+msgstr ""
+
+#: includes/class-widget-tags-cloud.php:99
+msgid "Largest Size:"
+msgstr ""
+
+#: includes/class-widget-tags-cloud.php:103
+msgid "Number:"
+msgstr ""
+
+#: includes/class-widget-tags-cloud.php:107
+msgid "Format:"
+msgstr ""
+
+#: includes/class-widget-tags-cloud.php:115
+msgid "Show Count:"
+msgstr ""
+
+#: includes/composer/param/fullwidth.php:12
+msgid "Fullwidth (no wrapper)"
+msgstr ""
+
+#: includes/composer/shortcodes/videotube.php:16
+msgid "Page Builder"
+msgstr ""
+
+#: includes/composer/shortcodes/videotube.php:18
+#: includes/composer/shortcodes/videotube_upload.php:10
+#: includes/composer/widgets/big-post.php:21
+#: includes/composer/widgets/featured-video.php:23
+msgid "VideoTube"
+msgstr ""
+
+#: includes/composer/shortcodes/videotube.php:22
+msgid "Video/Post Page/Widget Builder."
+msgstr ""
+
+#: includes/composer/shortcodes/videotube.php:35
+#: includes/composer/widgets/featured-video.php:40
+#: includes/composer/widgets/post1col.php:37
+msgid "Icon"
+msgstr ""
+
+#: includes/composer/shortcodes/videotube.php:50
+#: includes/composer/widgets/post1col.php:47
+msgid "Video"
+msgstr ""
+
+#: includes/composer/shortcodes/videotube.php:51
+#: includes/composer/widgets/post1col.php:48
+msgid "Post"
+msgstr ""
+
+#: includes/composer/shortcodes/videotube.php:61
+msgid "Post Excerpt"
+msgstr ""
+
+#: includes/composer/shortcodes/videotube.php:63
+msgid "Displays the post excerpt"
+msgstr ""
+
+#: includes/composer/shortcodes/videotube.php:69
+msgid "Type"
+msgstr ""
+
+#: includes/composer/shortcodes/videotube.php:72
+msgid "Main Content"
+msgstr ""
+
+#: includes/composer/shortcodes/videotube.php:73
+msgid "Widget"
+msgstr ""
+
+#: includes/composer/shortcodes/videotube.php:82
+#: includes/composer/widgets/post1col.php:58
+msgid "Carousel"
+msgstr ""
+
+#: includes/composer/shortcodes/videotube.php:106
+#: includes/composer/widgets/post1col.php:82
+msgid "Show Posts"
+msgstr ""
+
+#: includes/composer/shortcodes/videotube.php:109
+#: includes/composer/widgets/post1col.php:85
+msgid "How many video will be shown?"
+msgstr ""
+
+#: includes/composer/shortcodes/videotube.php:115
+msgid "Section ID"
+msgstr ""
+
+#: includes/composer/shortcodes/videotube.php:117
+msgid "Enter an unique name if you check on Carousel checkbox."
+msgstr ""
+
+#: includes/composer/shortcodes/videotube.php:124
+#: includes/composer/widgets/featured-video.php:69
+#: includes/composer/widgets/post1col.php:91
+msgid "Rows"
+msgstr ""
+
+#: includes/composer/shortcodes/videotube.php:126
+#: includes/composer/widgets/featured-video.php:71
+#: includes/composer/widgets/post1col.php:93
+msgid "How many Rows will be shown?"
+msgstr ""
+
+#: includes/composer/shortcodes/videotube.php:137
+#: includes/composer/widgets/featured-video.php:82
+msgid "Desktop Columns"
+msgstr ""
+
+#: includes/composer/shortcodes/videotube.php:139
+#: includes/composer/widgets/featured-video.php:84
+msgid "How many Columns will be shown on desktop devices?"
+msgstr ""
+
+#: includes/composer/shortcodes/videotube.php:146
+#: includes/composer/widgets/featured-video.php:91
+msgid "Tablet Columns"
+msgstr ""
+
+#: includes/composer/shortcodes/videotube.php:148
+#: includes/composer/widgets/featured-video.php:93
+msgid "How many Columns will be shown on tablet devices?"
+msgstr ""
+
+#: includes/composer/shortcodes/videotube.php:155
+#: includes/composer/widgets/featured-video.php:100
+msgid "Mobile Columns"
+msgstr ""
+
+#: includes/composer/shortcodes/videotube.php:157
+#: includes/composer/widgets/featured-video.php:102
+msgid "How many Columns will be shown on mobile devices?"
+msgstr ""
+
+#: includes/composer/shortcodes/videotube.php:164
+#: includes/composer/widgets/big-post.php:45
+#: includes/composer/widgets/post1col.php:104
+msgid "Thumbnail Image Size"
+msgstr ""
+
+#: includes/composer/shortcodes/videotube.php:166
+#, php-format
+msgid ""
+"Enter image size. Example: <strong>%s , thumbnail, medium, large, full</"
+"strong>, or leave blank for default."
+msgstr ""
+
+#: includes/composer/shortcodes/videotube.php:174
+#: includes/composer/widgets/featured-video.php:111
+#: includes/composer/widgets/post1col.php:114
+msgid "Choose the Video Category or leave for default."
+msgstr ""
+
+#: includes/composer/shortcodes/videotube.php:185
+#: includes/composer/widgets/post1col.php:125
+msgid "Post Category"
+msgstr ""
+
+#: includes/composer/shortcodes/videotube.php:187
+#: includes/composer/widgets/post1col.php:127
+msgid "Choose the Post Category or leave for default."
+msgstr ""
+
+#: includes/composer/shortcodes/videotube.php:198
+#: includes/composer/widgets/post1col.php:138
+msgid "Post Tags"
+msgstr ""
+
+#: includes/composer/shortcodes/videotube.php:200
+#: includes/composer/widgets/post1col.php:140
+msgid ""
+"Set Post Tag to a comma separated list of Post Tag slug to only show those."
+msgstr ""
+
+#: includes/composer/shortcodes/videotube.php:210
+#: includes/composer/widgets/featured-video.php:122
+#: includes/composer/widgets/post1col.php:150
+msgid "Video Tags"
+msgstr ""
+
+#: includes/composer/shortcodes/videotube.php:212
+#: includes/composer/widgets/featured-video.php:124
+#: includes/composer/widgets/post1col.php:152
+msgid ""
+"Set Video Tag to a comma separated list of Video Tag ID to only show those."
+msgstr ""
+
+#: includes/composer/shortcodes/videotube.php:222
+#: includes/composer/widgets/featured-video.php:134
+#: includes/composer/widgets/post1col.php:162
+msgid "IDs"
+msgstr ""
+
+#: includes/composer/shortcodes/videotube.php:224
+#: includes/composer/widgets/featured-video.php:136
+#: includes/composer/widgets/post1col.php:164
+msgid ""
+"Set the Video/Post ID to a comma separated list of Video/Post ID to only "
+"show those."
+msgstr ""
+
+#: includes/composer/shortcodes/videotube.php:230
+#: includes/composer/widgets/post1col.php:170
+msgid "Authors"
+msgstr ""
+
+#: includes/composer/shortcodes/videotube.php:232
+#: includes/composer/widgets/post1col.php:172
+msgid ""
+"Set Author ID to a comma separated list of Video/Post to only show those."
+msgstr ""
+
+#: includes/composer/shortcodes/videotube.php:240
+msgid "Current Author"
+msgstr ""
+
+#: includes/composer/shortcodes/videotube.php:242
+msgid "Retrieves current author posts."
+msgstr ""
+
+#: includes/composer/shortcodes/videotube.php:249
+msgid "Current Logged In User"
+msgstr ""
+
+#: includes/composer/shortcodes/videotube.php:252
+msgid "Retrieves current logged in user posts."
+msgstr ""
+
+#: includes/composer/shortcodes/videotube.php:258
+#: includes/composer/widgets/post1col.php:178
+msgid "Date"
+msgstr ""
+
+#: includes/composer/shortcodes/videotube.php:260
+#: includes/composer/widgets/post1col.php:180
+msgid "Show posts associated with a certain time, (yyyy-mm-dd)"
+msgstr ""
+
+#: includes/composer/shortcodes/videotube.php:267
+#: includes/composer/widgets/post1col.php:187
+msgid "Today"
+msgstr ""
+
+#: includes/composer/shortcodes/videotube.php:268
+#: includes/composer/widgets/post1col.php:188
+msgid "Show posts today"
+msgstr ""
+
+#: includes/composer/shortcodes/videotube.php:275
+#: includes/composer/widgets/post1col.php:195
+msgid "This Week"
+msgstr ""
+
+#: includes/composer/shortcodes/videotube.php:276
+#: includes/composer/widgets/post1col.php:196
+msgid "Show posts this week"
+msgstr ""
+
+#: includes/composer/shortcodes/videotube.php:283
+msgid "Hide empty thumbnail posts"
+msgstr ""
+
+#: includes/composer/shortcodes/videotube.php:286
+msgid "Do not retrieves empty thumbnail posts."
+msgstr ""
+
+#: includes/composer/shortcodes/videotube.php:292
+#: includes/composer/widgets/featured-video.php:142
+#: includes/composer/widgets/post1col.php:202
+msgid "Order by"
+msgstr ""
+
+#: includes/composer/shortcodes/videotube.php:294
+#: includes/composer/widgets/featured-video.php:144
+#: includes/composer/widgets/post1col.php:204
+msgid "Order by Views/Likes is not available for the Regular Post."
+msgstr ""
+
+#: includes/composer/shortcodes/videotube.php:301
+#: includes/composer/widgets/featured-video.php:151
+#: includes/composer/widgets/post1col.php:210
+msgid "Order"
+msgstr ""
+
+#: includes/composer/shortcodes/videotube.php:304
+#: includes/composer/widgets/featured-video.php:154
+msgid "Descending"
+msgstr ""
+
+#: includes/composer/shortcodes/videotube.php:305
+#: includes/composer/widgets/featured-video.php:155
+msgid "Ascending"
+msgstr ""
+
+#: includes/composer/shortcodes/videotube.php:311
+#: includes/composer/shortcodes/videotube_upload.php:96
+#: includes/composer/widgets/login-form.php:43
+#: includes/composer/widgets/post1col.php:226
+msgid "Extra class name"
+msgstr ""
+
+#: includes/composer/shortcodes/videotube.php:313
+#: includes/composer/shortcodes/videotube_upload.php:98
+#: includes/composer/widgets/login-form.php:45
+#: includes/composer/widgets/post1col.php:228
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: includes/composer/shortcodes/videotube_upload.php:8
+msgid "Upload Form"
+msgstr ""
+
+#: includes/composer/shortcodes/videotube_upload.php:14
+msgid "Video Upload Form."
+msgstr ""
+
+#: includes/composer/shortcodes/videotube_upload.php:22
+msgid "This title is not displayed at Frontend."
+msgstr ""
+
+#: includes/composer/shortcodes/videotube_upload.php:29
+msgid "Hide Category field"
+msgstr ""
+
+#: includes/composer/shortcodes/videotube_upload.php:35
+msgid "Category Exclude"
+msgstr ""
+
+#: includes/composer/shortcodes/videotube_upload.php:41
+msgid "A string of category ids to exclude, comma-separated ids."
+msgstr ""
+
+#: includes/composer/shortcodes/videotube_upload.php:47
+msgid "Category Include"
+msgstr ""
+
+#: includes/composer/shortcodes/videotube_upload.php:53
+msgid "A string of category ids to include, comma-separated ids."
+msgstr ""
+
+#: includes/composer/shortcodes/videotube_upload.php:59
+msgid "Category Order by"
+msgstr ""
+
+#: includes/composer/shortcodes/videotube_upload.php:66
+msgid "ID"
+msgstr ""
+
+#: includes/composer/shortcodes/videotube_upload.php:67
+msgid "Count"
+msgstr ""
+
+#: includes/composer/shortcodes/videotube_upload.php:68
+msgid "Name"
+msgstr ""
+
+#: includes/composer/shortcodes/videotube_upload.php:69
+msgid "Slug"
+msgstr ""
+
+#: includes/composer/shortcodes/videotube_upload.php:76
+msgid "Category Order"
+msgstr ""
+
+#: includes/composer/shortcodes/videotube_upload.php:92
+msgid "Hide Tag field"
+msgstr ""
+
+#: includes/composer/templates/homepage-4columns-featured-widget.php:6
+msgid "Homepage 4 Columns and Featured Widget"
+msgstr ""
+
+#: includes/composer/templates/homepage-v1-2-columns-left-sidebar.php:6
+msgid "Homepage V1 - 2 Cols- Left Sidebar"
+msgstr ""
+
+#: includes/composer/templates/homepage-v1-2-columns-right-sidebar.php:6
+msgid "Homepage V1 - 2 Cols- Right Sidebar"
+msgstr ""
+
+#: includes/composer/templates/homepage-v2-fullwidth-3-columns.php:6
+msgid "Homepage V2 - Fullwidth - 3 Cols"
+msgstr ""
+
+#: includes/composer/templates/homepage-v3-fullwidth-4-columns.php:6
+msgid "Homepage V3 - Fullwidth - 4 Cols"
+msgstr ""
+
+#: includes/composer/templates/homepage-v4-fullwidth-6-columns.php:6
+msgid "Homepage V4 - Fullwidth - 6 Cols"
+msgstr ""
+
+#: includes/composer/templates/homepage-v5-1-column-left-sidebar-v2.php:6
+msgid "Homepage V5 - 1Col - Left Sidebar - V2"
+msgstr ""
+
+#: includes/composer/templates/homepage-v5-1-column-left-sidebar.php:6
+msgid "Homepage V5 - 1Col - Left Sidebar"
+msgstr ""
+
+#: includes/composer/templates/homepage-v5-1-column-right-sidebar-v2.php:6
+msgid "Homepage V5 - 1Col - Right Sidebar - V2"
+msgstr ""
+
+#: includes/composer/templates/homepage-v5-1-column-right-sidebar.php:6
+msgid "Homepage V5 - 1Col - Right Sidebar"
+msgstr ""
+
+#: includes/composer/widgets/big-post.php:19
+msgid "Large Post"
+msgstr ""
+
+#: includes/composer/widgets/big-post.php:37
+msgid "Video/Post ID"
+msgstr ""
+
+#: includes/composer/widgets/big-post.php:39
+msgid "Put the Post/Video ID"
+msgstr ""
+
+#: includes/composer/widgets/big-post.php:47
+#, php-format
+msgid ""
+"Enter image size. Example: thumbnail, medium, large, full, %s. Leave empty "
+"to use \"blog-large-thumb\" size."
+msgstr ""
+
+#: includes/composer/widgets/big-post.php:53
+msgid "View more url"
+msgstr ""
+
+#: includes/composer/widgets/featured-video.php:26
+msgid "Display the Featured Videos Widget."
+msgstr ""
+
+#: includes/composer/widgets/featured-video.php:61
+msgid "Number"
+msgstr ""
+
+#: includes/composer/widgets/login-form.php:11
+#: includes/composer/widgets/post1col.php:20
+#: includes/composer/widgets/social-count-plus.php:13
+#: includes/composer/widgets/socialsbox.php:13
+#: includes/composer/widgets/vt-tag-cloud.php:13
+msgid "WordPress Widgets"
+msgstr ""
+
+#: includes/composer/widgets/login-form.php:14
+msgid "Display the Login Form Widget."
+msgstr ""
+
+#: includes/composer/widgets/login-form.php:29
+msgid "Video Upload Page"
+msgstr ""
+
+#: includes/composer/widgets/login-form.php:37
+msgid "Profile Page"
+msgstr ""
+
+#: includes/composer/widgets/post1col.php:18
+msgid "Post 1 Column"
+msgstr ""
+
+#: includes/composer/widgets/post1col.php:23
+msgid "Display the 1 Column Post widget."
+msgstr ""
+
+#: includes/composer/widgets/post1col.php:71
+msgid "Auto Play"
+msgstr ""
+
+#: includes/composer/widgets/post1col.php:106
+#, php-format
+msgid ""
+"Enter image size. Example: <strong>%s , thumbnail, medium, large, full</"
+"strong> or other sizes defined by current theme. Alternatively enter image "
+"size in pixels: 200x100 (Width x Height). Leave empty to use \"video-featured"
+"\" size."
+msgstr ""
+
+#: includes/composer/widgets/post1col.php:218
+msgid "Display the Page Navigation."
+msgstr ""
+
+#: includes/composer/widgets/social-count-plus.php:11
+msgid "Social Count Plus"
+msgstr ""
+
+#: includes/composer/widgets/social-count-plus.php:16
+msgid "Display the Social Count Plus widget."
+msgstr ""
+
+#: includes/composer/widgets/socialsbox.php:11
+msgid "VT Socials Box"
+msgstr ""
+
+#: includes/composer/widgets/socialsbox.php:16
+msgid "Display the Social count box."
+msgstr ""
+
+#: includes/composer/widgets/vt-tag-cloud.php:11
+msgid "VT Tag Cloud"
+msgstr ""
+
+#: includes/composer/widgets/vt-tag-cloud.php:16
+msgid "Display the Tags Cloud (Popular Keys) Widget."
+msgstr ""
+
+#: includes/composer/widgets/vt-tag-cloud.php:30
+msgid "Taxonomies"
+msgstr ""
+
+#: includes/composer/widgets/vt-tag-cloud.php:33
+msgid "Separated by commas(,)"
+msgstr ""
+
+#: includes/composer/widgets/vt-tag-cloud.php:39
+msgid "Smallest Size"
+msgstr ""
+
+#: includes/composer/widgets/vt-tag-cloud.php:46
+msgid "Largest Size"
+msgstr ""
+
+#: includes/composer/widgets/vt-tag-cloud.php:53
+msgid "Number Size"
+msgstr ""
+
+#: includes/composer/widgets/vt-tag-cloud.php:60
+msgid "Format"
+msgstr ""
+
+#: includes/composer/widgets/vt-tag-cloud.php:63
+msgid "Flat"
+msgstr ""
+
+#: includes/composer/widgets/vt-tag-cloud.php:64
+msgid "List"
+msgstr ""
+
+#: includes/composer/widgets/vt-tag-cloud.php:71
+msgid "Show Count"
+msgstr ""

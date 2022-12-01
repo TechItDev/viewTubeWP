@@ -1,0 +1,14 @@
+#wp_easy_review_review label,
+#wp_easy_review_review select,
+#wp_easy_review_review input[type="text"],
+#wp_easy_review_review textarea{
+    margin:10px 10px 0 0 ;
+}
+#wp_easy_review_review textarea{
+	width: 100%;
+	height: 100px;
+}
+#wp_easy_review_review h4{
+	margin: 0;
+	padding: 0;
+}

@@ -1,0 +1,1382 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: videotube\n"
+"POT-Creation-Date: 2020-10-01 14:35+0700\n"
+"PO-Revision-Date: 2016-01-26 14:11+0700\n"
+"Last-Translator: \n"
+"Language-Team: marstheme.com <nttoanbrvt@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:12
+msgid "This is somewhat embarrassing, isn't it?"
+msgstr ""
+
+#: 404.php:15
+msgid ""
+"It seems we can not find what you are looking for. Perhaps searching can "
+"help."
+msgstr ""
+
+#: archive-video.php:29 archive.php:21 author.php:31
+#: includes/functions.php:1035 index.php:18 search.php:34
+#: taxonomy-categories.php:29 taxonomy-video_tag.php:29
+msgid "No posts were found."
+msgstr ""
+
+#: archive.php:18 category.php:18 index.php:15
+msgid "&larr; Previous"
+msgstr ""
+
+#: archive.php:18 category.php:18 includes/functions.php:836 index.php:15
+msgid "Next &rarr;"
+msgstr ""
+
+#: author.php:26 tag.php:18 tpl-blog.php:22
+msgid "&larr; Older"
+msgstr ""
+
+#: author.php:26 tag.php:18 tpl-blog.php:22
+msgid "Newer &rarr;"
+msgstr ""
+
+#: category.php:21 tpl-blog.php:26
+msgid "Oops...nothing."
+msgstr ""
+
+#: comments.php:15
+msgid "Add your comment"
+msgstr ""
+
+#: comments.php:16
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments.php:17
+msgid "Cancel Reply"
+msgstr ""
+
+#: comments.php:18
+msgid "Submit"
+msgstr ""
+
+#: comments.php:22
+msgid "Leave your comment"
+msgstr ""
+
+#: comments.php:27
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: comments.php:33
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: comments.php:40
+msgid "Your email address will not be published."
+msgstr ""
+
+#: comments.php:48
+msgid "Enter name"
+msgstr ""
+
+#: comments.php:53
+msgid "Enter Email"
+msgstr ""
+
+#: comments.php:58
+msgid "Enter Website"
+msgstr ""
+
+#: comments.php:84
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:85
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:107
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:136
+msgid "loading"
+msgstr ""
+
+#: comments.php:137 includes/functions.php:1074 includes/functions.php:1081
+msgid "load more"
+msgstr ""
+
+#: functions.php:53
+msgid "Primary Navigation"
+msgstr ""
+
+#: functions.php:54
+msgid "User Dropdown Navigation"
+msgstr ""
+
+#: functions.php:169
+msgid "Please upload an image instead."
+msgstr ""
+
+#: functions.php:170
+msgid "Please upload a video instead."
+msgstr ""
+
+#: functions.php:171
+msgid "Do you want to delete this video?"
+msgstr ""
+
+#: functions.php:172
+msgid "Uploading ..."
+msgstr ""
+
+#: functions.php:222
+msgid "Right HomePage"
+msgstr ""
+
+#: functions.php:224
+msgid "Add widgets here to appear in right sidebar on HomePage."
+msgstr ""
+
+#: functions.php:233
+msgid "Inner Page Right"
+msgstr ""
+
+#: functions.php:235
+msgid "Add widgets here to appear in right sidebar on inner pages."
+msgstr ""
+
+#: functions.php:243
+msgid "Featured"
+msgstr ""
+
+#: functions.php:245
+msgid "Add widgets here to appear in featured sidebar."
+msgstr ""
+
+#: functions.php:253
+msgid "Main HomePage"
+msgstr ""
+
+#: functions.php:255
+msgid "Add widgets here to appear in main HomePage content."
+msgstr ""
+
+#: functions.php:263
+msgid "Author Right"
+msgstr ""
+
+#: functions.php:265
+msgid "Add widgets here to appear in right sidebar on Author page."
+msgstr ""
+
+#: functions.php:273
+msgid "Footer Sidebar"
+msgstr ""
+
+#: functions.php:275
+msgid "Add widgets here to appear in Footer."
+msgstr ""
+
+#: functions.php:283
+msgid "Video Content Bottom"
+msgstr ""
+
+#: functions.php:285
+msgid "Add widgets here to appear in video content bottom."
+msgstr ""
+
+#: functions.php:293
+msgid "Post Content Bottom"
+msgstr ""
+
+#: functions.php:295
+msgid "Add widgets here to appear in blog post content bottom"
+msgstr ""
+
+#: includes/ajax.php:17 includes/ajax.php:65
+msgid "Invalid requested."
+msgstr ""
+
+#: includes/ajax.php:44
+msgid "Your comment has been posted."
+msgstr ""
+
+#: includes/ajax.php:119
+msgid "Sorry, you have to log in to like this video."
+msgstr ""
+
+#: includes/ajax.php:129
+msgid "Sorry, You cannot like this video."
+msgstr ""
+
+#: includes/ajax.php:145
+msgid "Awesome, thanks for your rating."
+msgstr ""
+
+#: includes/ajax.php:152
+msgid "You have already liked this video."
+msgstr ""
+
+#: includes/ajax.php:185 includes/ajax.php:322
+msgid "Please login to upload video."
+msgstr ""
+
+#: includes/ajax.php:193 includes/ajax.php:330
+msgid "Invalid request."
+msgstr ""
+
+#: includes/ajax.php:204
+msgid "The upload file format is not supported, please upload a video instead."
+msgstr ""
+
+#: includes/ajax.php:215 includes/ajax.php:351
+#, php-format
+msgid "File size (%sMB) has exceeded the limit (%sMB)."
+msgstr ""
+
+#: includes/ajax.php:287 includes/ajax.php:425
+#, php-format
+msgid "Error: %s, cannot upload file."
+msgstr ""
+
+#: includes/ajax.php:340
+msgid ""
+"The upload file format is not supported, please upload an image instead."
+msgstr ""
+
+#: includes/ajax.php:417
+msgid "Uploaded"
+msgstr ""
+
+#: includes/ajax.php:458
+msgid "Please login to submit video."
+msgstr ""
+
+#: includes/ajax.php:468 includes/ajax.php:683
+msgid "Invalid request"
+msgstr ""
+
+#: includes/ajax.php:499
+msgid "Sorry, you do not have permission for updating this video."
+msgstr ""
+
+#: includes/ajax.php:511
+msgid "The video title is required."
+msgstr ""
+
+#: includes/ajax.php:541
+msgid "Please enter a video url"
+msgstr ""
+
+#: includes/ajax.php:550
+msgid "Please enter an embed"
+msgstr ""
+
+#: includes/ajax.php:560
+msgid "Please upload a video file."
+msgstr ""
+
+#: includes/ajax.php:660
+msgid "Submitted"
+msgstr ""
+
+#: includes/ajax.php:691
+msgid "Sorry, you do not have permission for deleting this video."
+msgstr ""
+
+#: includes/ajax.php:714
+msgid "Deleted"
+msgstr ""
+
+#: includes/class-author.php:30
+msgid "Videos:"
+msgstr ""
+
+#: includes/class-author.php:31
+msgid "Likes:"
+msgstr ""
+
+#: includes/class-author.php:32
+msgid "Views:"
+msgstr ""
+
+#: includes/class-facebook.php:104 includes/class-openload.php:86
+#: includes/class-twitter.php:90
+msgid "URL not found"
+msgstr ""
+
+#: includes/class-facebook.php:124 includes/class-openload.php:99
+#: includes/class-streamable.php:105
+msgid "Error Undefined"
+msgstr ""
+
+#: includes/class-openload.php:120 includes/class-streamable.php:127
+#: includes/class-twitter.php:148
+#, php-format
+msgid "%s thumbnail"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:333
+msgid "Install Required Plugins"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:334
+msgid "Install Plugins"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:335
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:336
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:397
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:399
+#: includes/class-tgm-plugin-activation.php:3029
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:400
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:402
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:403
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:521
+msgid "Update Required"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:635
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:828
+#: includes/class-tgm-plugin-activation.php:3438
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:935
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:935
+#: includes/class-tgm-plugin-activation.php:938
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:938
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2167
+msgid "Required"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2170
+msgid "Recommended"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2186
+msgid "WordPress Repository"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2189
+msgid "External Source"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2192
+msgid "Pre-Packaged"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2209
+msgid "Not Installed"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2213
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2215
+msgid "Active"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2221
+msgid "Required Update not Available"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2224
+msgid "Requires Update"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2227
+msgid "Update recommended"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2379
+msgid "Installed version:"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2387
+msgid "Minimum required version:"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2399
+msgid "Available version:"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2422
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2436
+msgid "Plugin"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2437
+msgid "Source"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2438
+msgid "Type"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2442
+msgid "Version"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2443
+msgid "Status"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2570
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2603
+msgid "Install"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2609 includes/theme-options.php:637
+msgid "Update"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2612
+msgid "Activate"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2643
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2645
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2681
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2683
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2788
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2814
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3028
+msgid "Plugin activation failed."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3362
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3364
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3365
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3369
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3370
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3370
+#: includes/class-tgm-plugin-activation.php:3376
+msgid "Show Details"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3370
+#: includes/class-tgm-plugin-activation.php:3376
+msgid "Hide Details"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3371
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3372
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3375
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3376
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3377
+msgid "All installations have been completed."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3378
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/class-wp-bootstrap-navwalker.php:365
+msgid "Add a menu"
+msgstr ""
+
+#: includes/functions.php:239 includes/theme-options.php:305
+#: single-video.php:210
+msgid "Facebook"
+msgstr ""
+
+#: includes/functions.php:240
+msgid "twitter"
+msgstr ""
+
+#: includes/functions.php:241 includes/theme-options.php:317
+msgid "Google Plus"
+msgstr ""
+
+#: includes/functions.php:242 includes/theme-options.php:323
+msgid "Instagram"
+msgstr ""
+
+#: includes/functions.php:243 includes/theme-options.php:329
+#: single-video.php:230
+msgid "Linkedin"
+msgstr ""
+
+#: includes/functions.php:244 includes/theme-options.php:335
+msgid "Tumblr"
+msgstr ""
+
+#: includes/functions.php:245 includes/theme-options.php:341
+msgid "Youtube"
+msgstr ""
+
+#: includes/functions.php:246 includes/theme-options.php:347
+msgid "Vimeo"
+msgstr ""
+
+#: includes/functions.php:247 includes/theme-options.php:359
+#: single-video.php:222
+msgid "Pinterest"
+msgstr ""
+
+#: includes/functions.php:248 includes/theme-options.php:365
+msgid "Snapchat"
+msgstr ""
+
+#: includes/functions.php:256
+msgid "Order by Post ID"
+msgstr ""
+
+#: includes/functions.php:257
+msgid "Order by Author"
+msgstr ""
+
+#: includes/functions.php:258
+msgid "Order by Title"
+msgstr ""
+
+#: includes/functions.php:259
+msgid "Order by Post name (Post slug)"
+msgstr ""
+
+#: includes/functions.php:260
+msgid "Order by Date"
+msgstr ""
+
+#: includes/functions.php:261
+msgid "Order by Last modified date"
+msgstr ""
+
+#: includes/functions.php:262
+msgid "Order by Random"
+msgstr ""
+
+#: includes/functions.php:263
+msgid "Order by Number of comments"
+msgstr ""
+
+#: includes/functions.php:264
+msgid "Order by Views"
+msgstr ""
+
+#: includes/functions.php:265
+msgid "Order by Likes"
+msgstr ""
+
+#: includes/functions.php:308 includes/functions.php:350
+msgid "Reply"
+msgstr ""
+
+#: includes/functions.php:328
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: includes/functions.php:336 includes/functions.php:338
+#: includes/functions.php:343 includes/hooks.php:37 includes/hooks.php:65
+#, php-format
+msgid "%s ago"
+msgstr ""
+
+#: includes/functions.php:353 single-video.php:283
+msgid "Edit"
+msgstr ""
+
+#: includes/functions.php:408
+msgid "Latest"
+msgstr ""
+
+#: includes/functions.php:409
+msgid "Viewed"
+msgstr ""
+
+#: includes/functions.php:410
+msgid "Liked"
+msgstr ""
+
+#: includes/functions.php:411 single-video.php:162
+msgid "Comments"
+msgstr ""
+
+#: includes/functions.php:413
+msgid "Sort by:"
+msgstr ""
+
+#: includes/functions.php:732
+msgid "Small"
+msgstr ""
+
+#: includes/functions.php:733
+msgid "Large"
+msgstr ""
+
+#: includes/functions.php:748
+msgid "Pages:"
+msgstr ""
+
+#: includes/functions.php:835
+msgid "&larr; Previous "
+msgstr ""
+
+#: includes/functions.php:835
+msgid " &rarr; Previous"
+msgstr ""
+
+#: includes/functions.php:836
+msgid "Next &larr;"
+msgstr ""
+
+#: includes/functions.php:929 includes/theme-options.php:531
+msgid "Default"
+msgstr ""
+
+#: includes/functions.php:930
+msgid "Blue"
+msgstr ""
+
+#: includes/functions.php:931
+msgid "Splash Orange"
+msgstr ""
+
+#: includes/functions.php:932
+msgid "Orange"
+msgstr ""
+
+#: includes/functions.php:933
+msgid "Wood"
+msgstr ""
+
+#: includes/functions.php:934
+msgid "Splash Red"
+msgstr ""
+
+#: includes/functions.php:935
+msgid "Green"
+msgstr ""
+
+#: includes/functions.php:936
+msgid "Custom"
+msgstr ""
+
+#: includes/template-login.php:66
+msgid "Log in"
+msgstr ""
+
+#: includes/theme-options.php:26 includes/theme-options.php:27
+msgid "Theme Options"
+msgstr ""
+
+#: includes/theme-options.php:100
+#, php-format
+msgid ""
+"<p>Did you know that Redux sets a global variable for you? To access any of "
+"your saved options from within your code you can use your global variable: "
+"<strong>$%1$s</strong></p>"
+msgstr ""
+
+#: includes/theme-options.php:102
+msgid ""
+"<p>This text is displayed above the options panel. It isn't required, but "
+"more info is always better! The intro_text field accepts all HTML.</p>"
+msgstr ""
+
+#: includes/theme-options.php:109
+msgid "General"
+msgstr ""
+
+#: includes/theme-options.php:117
+msgid "Upload any media using the WordPress native uploader"
+msgstr ""
+
+#: includes/theme-options.php:119
+msgid "Logo (194*31px)"
+msgstr ""
+
+#: includes/theme-options.php:124 includes/theme-options.php:174
+msgid "Custom CSS"
+msgstr ""
+
+#: includes/theme-options.php:125
+msgid "Paste your CSS code here, no style tag."
+msgstr ""
+
+#: includes/theme-options.php:132
+msgid "Mobile Custom CSS"
+msgstr ""
+
+#: includes/theme-options.php:133
+msgid ""
+"Paste your CSS code here, no style tag, this CSS will effect to the site on "
+"Mobile."
+msgstr ""
+
+#: includes/theme-options.php:140
+msgid "Custom JS"
+msgstr ""
+
+#: includes/theme-options.php:141
+msgid "Paste your JS code here, no script tag, eg: alert('hello world');"
+msgstr ""
+
+#: includes/theme-options.php:148
+msgid "Mobile Custom JS"
+msgstr ""
+
+#: includes/theme-options.php:149
+msgid ""
+"Paste your JS code here, no script tag, this JS will effect to the site on "
+"Mobile eg: alert('hello world');"
+msgstr ""
+
+#: includes/theme-options.php:158
+msgid "Styling"
+msgstr ""
+
+#: includes/theme-options.php:166
+msgid "Style"
+msgstr ""
+
+#: includes/theme-options.php:167
+msgid "Choose the Style."
+msgstr ""
+
+#: includes/theme-options.php:175
+msgid ""
+"Write your CSS code here, no style tag, this will override to the default "
+"style."
+msgstr ""
+
+#: includes/theme-options.php:176
+msgid "This style will be lose if you reset the settings."
+msgstr ""
+
+#: includes/theme-options.php:185
+msgid "Header Background Color"
+msgstr ""
+
+#: includes/theme-options.php:186
+msgid "Pick a background color for the header (default: #ffffff)."
+msgstr ""
+
+#: includes/theme-options.php:194
+msgid "Body Background"
+msgstr ""
+
+#: includes/theme-options.php:195
+msgid "Body background with image, color, etc."
+msgstr ""
+
+#: includes/theme-options.php:201
+msgid "Body Text"
+msgstr ""
+
+#: includes/theme-options.php:214
+msgid "Headings"
+msgstr ""
+
+#: includes/theme-options.php:227
+msgid "Menu"
+msgstr ""
+
+#: includes/theme-options.php:240
+msgid "Widget Title Background"
+msgstr ""
+
+#: includes/theme-options.php:241
+msgid ""
+"Pick a background color for the Widget title (default: #e73737), only for "
+"Right Widget."
+msgstr ""
+
+#: includes/theme-options.php:248
+msgid "Widget Title Color"
+msgstr ""
+
+#: includes/theme-options.php:249
+msgid ""
+"Pick a color for the Widget title (default: #e73737), only for Right Widget"
+msgstr ""
+
+#: includes/theme-options.php:256
+msgid "Header Navigation Background"
+msgstr ""
+
+#: includes/theme-options.php:257
+msgid ""
+"Pick a background color for the Header Navigation (Header Menu) (default: "
+"#4c5358)."
+msgstr ""
+
+#: includes/theme-options.php:264
+msgid "Header Navigation Color"
+msgstr ""
+
+#: includes/theme-options.php:265
+msgid ""
+"Pick a color for the Header Navigation (Header Menu) (default: #4c5358)."
+msgstr ""
+
+#: includes/theme-options.php:272
+msgid "Footer Background"
+msgstr ""
+
+#: includes/theme-options.php:273
+msgid "Pick a background color for the footer (default: #111111)."
+msgstr ""
+
+#: includes/theme-options.php:280
+msgid "Footer Text Color"
+msgstr ""
+
+#: includes/theme-options.php:281
+msgid "Pick a color for Text in the footer (default: #ffffff)."
+msgstr ""
+
+#: includes/theme-options.php:291
+msgid "Socials"
+msgstr ""
+
+#: includes/theme-options.php:298
+msgid "Allow Guest to Like"
+msgstr ""
+
+#: includes/theme-options.php:300 includes/theme-options.php:390
+#: includes/theme-options.php:456 includes/theme-options.php:463
+#: includes/theme-options.php:539 includes/theme-options.php:558
+#: includes/theme-options.php:567 includes/theme-options.php:575
+msgid "Yes"
+msgstr ""
+
+#: includes/theme-options.php:301 includes/theme-options.php:391
+#: includes/theme-options.php:457 includes/theme-options.php:463
+#: includes/theme-options.php:540 includes/theme-options.php:559
+#: includes/theme-options.php:568 includes/theme-options.php:576
+msgid "No"
+msgstr ""
+
+#: includes/theme-options.php:307
+msgid "Facebook Profile or Fanpage URL"
+msgstr ""
+
+#: includes/theme-options.php:311 single-video.php:214
+msgid "Twitter"
+msgstr ""
+
+#: includes/theme-options.php:313
+msgid "Twitter URL"
+msgstr ""
+
+#: includes/theme-options.php:319
+msgid "Google Plus URL"
+msgstr ""
+
+#: includes/theme-options.php:325
+msgid "Instagram URL"
+msgstr ""
+
+#: includes/theme-options.php:331
+msgid "Linkedin URL"
+msgstr ""
+
+#: includes/theme-options.php:337
+msgid "Tumblr URL"
+msgstr ""
+
+#: includes/theme-options.php:343
+msgid "Youtube URL"
+msgstr ""
+
+#: includes/theme-options.php:349
+msgid "Vimeo URL"
+msgstr ""
+
+#: includes/theme-options.php:353
+msgid "Soundcloud"
+msgstr ""
+
+#: includes/theme-options.php:355
+msgid "Soundcloud URL"
+msgstr ""
+
+#: includes/theme-options.php:361
+msgid "Pinterest URL"
+msgstr ""
+
+#: includes/theme-options.php:367
+msgid "Snapchat URL"
+msgstr ""
+
+#: includes/theme-options.php:380
+msgid "Submit Form"
+msgstr ""
+
+#: includes/theme-options.php:387
+msgid "Allow Guest submit the video."
+msgstr ""
+
+#: includes/theme-options.php:388
+msgid ""
+"By default, Only register can submit the video, you can limit the role in "
+"below selectbox"
+msgstr ""
+
+#: includes/theme-options.php:398
+msgid "Video Type"
+msgstr ""
+
+#: includes/theme-options.php:399
+msgid "Choose the Video Type, which is available in Submit Form at Frontend."
+msgstr ""
+
+#: includes/theme-options.php:400
+msgid "Link"
+msgstr ""
+
+#: includes/theme-options.php:400
+msgid "Embed Code"
+msgstr ""
+
+#: includes/theme-options.php:400
+msgid "File"
+msgstr ""
+
+#: includes/theme-options.php:405
+msgid "Video File Size"
+msgstr ""
+
+#: includes/theme-options.php:408
+#, php-format
+msgid ""
+"The maximum video file size allowed, 10MB is default size, this size must be "
+"smaller than %sMB"
+msgstr ""
+
+#: includes/theme-options.php:415
+msgid "Preview Image Size"
+msgstr ""
+
+#: includes/theme-options.php:418
+#, php-format
+msgid ""
+"The maximum Preview Image size allowed, 2MB is default size, this size must "
+"be smaller than %sMB"
+msgstr ""
+
+#: includes/theme-options.php:427
+msgid "Redirect to"
+msgstr ""
+
+#: includes/theme-options.php:432
+msgid "User assignment"
+msgstr ""
+
+#: includes/theme-options.php:441
+msgid "Who can submit the video?"
+msgstr ""
+
+#: includes/theme-options.php:446
+msgid "Default Video Status"
+msgstr ""
+
+#: includes/theme-options.php:447
+msgid "The Public status will be shown on Frontend."
+msgstr ""
+
+#: includes/theme-options.php:448
+msgid "Publish"
+msgstr ""
+
+#: includes/theme-options.php:448
+msgid "Pending"
+msgstr ""
+
+#: includes/theme-options.php:448
+msgid "draft"
+msgstr ""
+
+#: includes/theme-options.php:454
+msgid "Use WP Visual Editor"
+msgstr ""
+
+#: includes/theme-options.php:462
+msgid "Show the Layout dropdown"
+msgstr ""
+
+#: includes/theme-options.php:472
+msgid "Misc"
+msgstr ""
+
+#: includes/theme-options.php:479
+msgid "Video Slug"
+msgstr ""
+
+#: includes/theme-options.php:481 includes/theme-options.php:488
+#: includes/theme-options.php:495
+msgid "Settings/Permalink"
+msgstr ""
+
+#: includes/theme-options.php:486
+msgid "Video Category Slug"
+msgstr ""
+
+#: includes/theme-options.php:493
+msgid "Video Tag Slug"
+msgstr ""
+
+#: includes/theme-options.php:501
+msgid "Login/Register page"
+msgstr ""
+
+#: includes/theme-options.php:502
+msgid ""
+"Using [videotube_login] shortcode in the page to display the Login/Register "
+"form."
+msgstr ""
+
+#: includes/theme-options.php:508
+msgid "Post Excerpt Length"
+msgstr ""
+
+#: includes/theme-options.php:514
+msgid "Feeds"
+msgstr ""
+
+#: includes/theme-options.php:515
+msgid "Including the Video in Feed Page."
+msgstr ""
+
+#: includes/theme-options.php:520
+msgid "AJAX Comments"
+msgstr ""
+
+#: includes/theme-options.php:522
+msgid "Click"
+msgstr ""
+
+#: includes/theme-options.php:523
+msgid "Infinite Scroll"
+msgstr ""
+
+#: includes/theme-options.php:530
+msgid "Time format"
+msgstr ""
+
+#: includes/theme-options.php:531
+msgid "Diffing"
+msgstr ""
+
+#: includes/theme-options.php:538
+msgid "Sticky Player"
+msgstr ""
+
+#: includes/theme-options.php:547
+msgid "Aspect Ratio"
+msgstr ""
+
+#: includes/theme-options.php:548
+msgid "16by9"
+msgstr ""
+
+#: includes/theme-options.php:548
+msgid "4by3"
+msgstr ""
+
+#: includes/theme-options.php:555
+msgid "AutoPlay"
+msgstr ""
+
+#: includes/theme-options.php:556
+msgid "Works for youtube and video self-hosted file."
+msgstr ""
+
+#: includes/theme-options.php:564
+msgid "User Channel"
+msgstr ""
+
+#: includes/theme-options.php:565
+msgid "Activate the channel page."
+msgstr ""
+
+#: includes/theme-options.php:573
+msgid "Read more/read less"
+msgstr ""
+
+#: includes/theme-options.php:582
+msgid "Desktop Columns"
+msgstr ""
+
+#: includes/theme-options.php:585 includes/theme-options.php:599
+#: includes/theme-options.php:612
+msgid "1 column"
+msgstr ""
+
+#: includes/theme-options.php:586 includes/theme-options.php:600
+#: includes/theme-options.php:613
+msgid "2 columns"
+msgstr ""
+
+#: includes/theme-options.php:587 includes/theme-options.php:601
+#: includes/theme-options.php:614
+msgid "3 columns"
+msgstr ""
+
+#: includes/theme-options.php:588 includes/theme-options.php:602
+#: includes/theme-options.php:615
+msgid "4 columns"
+msgstr ""
+
+#: includes/theme-options.php:589
+msgid "6 columns"
+msgstr ""
+
+#: includes/theme-options.php:596
+msgid "Tablet Columns"
+msgstr ""
+
+#: includes/theme-options.php:609
+msgid "Mobile Columns"
+msgstr ""
+
+#: includes/theme-options.php:623
+msgid "Footer"
+msgstr ""
+
+#: includes/theme-options.php:629
+msgid "Copyright Text"
+msgstr ""
+
+#: includes/theme-options.php:643
+msgid "Purchase Code"
+msgstr ""
+
+#: includes/theme-options.php:648
+msgid "Personal Access Token"
+msgstr ""
+
+#: includes/theme-options.php:649
+#, php-format
+msgid "Get one key %s"
+msgstr ""
+
+#: includes/theme-options.php:649
+msgid "here"
+msgstr ""
+
+#: loop-post.php:15
+msgid "Read More"
+msgstr ""
+
+#: loop-scroll.php:35
+msgid "watch video"
+msgstr ""
+
+#: search.php:13
+#, php-format
+msgid "About %s results"
+msgstr ""
+
+#: search.php:15
+#, php-format
+msgid "About %s result"
+msgstr ""
+
+#: searchform.php:5 template-parts/header.php:22
+msgid "Search here..."
+msgstr ""
+
+#: single-video.php:169
+msgid "Share"
+msgstr ""
+
+#: single-video.php:187
+msgid "Turn off Light"
+msgstr ""
+
+#: single-video.php:218
+msgid "Google plus"
+msgstr ""
+
+#: single-video.php:226
+msgid "Reddit"
+msgstr ""
+
+#: single-video.php:234
+msgid "Odnok"
+msgstr ""
+
+#: single-video.php:238
+msgid "Vkontakte"
+msgstr ""
+
+#: single-video.php:241
+#, php-format
+msgid "I saw this and thought of you! %s"
+msgstr ""
+
+#: single-video.php:242
+msgid "Email"
+msgstr ""
+
+#: single-video.php:248
+#, php-format
+msgid "Published on %s by %s"
+msgstr ""
+
+#: single-video.php:259
+msgid "Read more"
+msgstr ""
+
+#: single-video.php:263
+msgid "Read less"
+msgstr ""
+
+#: single-video.php:289 single.php:40
+msgid "Category"
+msgstr ""
+
+#: single-video.php:290 single.php:41
+msgid "Tag"
+msgstr ""
+
+#: tag.php:21
+msgid "Not found."
+msgstr ""
